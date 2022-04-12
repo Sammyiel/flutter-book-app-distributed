@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "594840666921",
+    "project_id": "alu-book-library",
+    "storage_bucket": "alu-book-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594840666921:android:f9f7c54eba0c8e3e622d38",
+        "android_client_info": {
+          "package_name": "com.example.book_library"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594840666921-8otk9bsmb3u3aqaq7297qvpj8p1s2747.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.book_library",
+            "certificate_hash": "66c3842549e55d64e75bc32d183631499abc03f3"
+          }
+        },
+        {
+          "client_id": "594840666921-vlqecjpa0hlvrm4faq9ciogqipne9n67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBetovr0TFQq9Bh5U81b4BFBQCZQm1Jw3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594840666921-vlqecjpa0hlvrm4faq9ciogqipne9n67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
